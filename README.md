@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lunaa</h1>
 <h3 align="center">A passionate developer from California</h3>
 
-- 🔭 I’m currently working on [Project Bandit](https://skidlunaa.repl.co/index.html)
+- 🔭 I’m currently working on [Project Bandit](https://dashboard.skidlunaa.repl.co/projects.html)
 
 - 🌱 I’m currently learning **HTML**
 
-- 👨‍💻 All of my projects are available at [https://skidlunaa.repl.co/index.html](https://skidlunaa.repl.co/index.html)
+- 👨‍💻 All of my projects are available [here](https://dashboard.skidlunaa.repl.co/projects.html)
 
-- 📝 I regularly write articles on [https://skidlunaa.repl.co/docs/docs.html](https://skidlunaa.repl.co/docs/docs.html)
+- 📝 I regularly write articles [here](https://skidlunaa.repl.co/docs/docs.html)
 
-- 💬 Ask me about **How I started out**
+- 📫 How to reach me **cutielunaa@riseup.net** or Discord at Not Lunaa#4776
 
-- 📫 How to reach me **cutielunaa@riseup.net**
-
-- 📄 Know about my experiences [https://skidlunaa.repl.co/docs/Abt/experience.html](https://skidlunaa.repl.co/docs/Abt/experience.html)
+- 📄 Know about my experiences [here](https://skidlunaa.repl.co/docs/Abt/experience.html) or [here](https://dashboard.skidlunaa.repl.co/abtlunaa.html)
 
 - ⚡ Fun fact **I started out coding in batch thinking I was a crazy hacker**
 
