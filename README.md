@@ -18,4 +18,4 @@ python, javascript, go, & html developer.
     <a href="https://home.skidlunaa.repl.co/">Portfolio</a>
    ﹒
 </p>
-<p align="center">Newest Project <a href="https://github.com/LunaaSan/Project-Skid">Project Skid</a> & <a href="https://github.com/LunaaSan/BanditBot">Project Bandit</a></p>
+<p align="center">Newest Project <a href="https://github.com/LunaaSan/BanditBot">Project Bandit</a></p>
