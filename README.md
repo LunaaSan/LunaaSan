@@ -13,7 +13,7 @@ python, javascript, go, & html developer.
    ﹒
     <a href="https://replit.com/@SkidLunaa">Replit</a>
    ﹒
-    <a href="https://dashboard.skidlunaa.repl.co/">website</a>
+    <a href="https://lunar-network-website-advance.skidlunaa.repl.co/landingPage/index.html">website</a>
    ﹒
     <a href="https://home.skidlunaa.repl.co/">Portfolio</a>
    ﹒
