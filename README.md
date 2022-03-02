@@ -29,9 +29,6 @@ A Passionate Python, JavaScript, GO, & HTML Developer
 <a href="https://twitter.com/LunarNetworkUS">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.reddit.com/user/SealedSaucer">
-  <img align="left" alt="Reddit" width="23px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit_colored_svg-128.png" />
-</a>
 
 </br>
 
