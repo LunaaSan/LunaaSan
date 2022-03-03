@@ -8,7 +8,7 @@
 A Passionate Python, JavaScript, GO, & HTML Developer
 
 [![Website](https://img.shields.io/website?label=lunaas.portfolio&style=for-the-badge&url=https%3A%2F%2Fdiscord.com)](https://home.skidlunaa.repl.co/)
-[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/czWf5CX6)
+[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ncbpJbgSgp)
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me?: Not Lunaa#4776
