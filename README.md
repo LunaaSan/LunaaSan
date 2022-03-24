@@ -16,9 +16,8 @@ A Passionate Python, JavaScript, GO, & HTML Developer
 ---
 
 ### Discord Status
-<a href="https://discord.com/users/929840249348190340">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/929840249348190340.png" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/929840249348190340
+                            )](https://discord.com/users/929840249348190340)
 
 ### Contact me : 
 
