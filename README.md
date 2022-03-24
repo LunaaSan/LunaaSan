@@ -16,7 +16,7 @@ A Passionate Python, JavaScript, GO, & HTML Developer
 ---
 
 ### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/929840249348190340)](https://discord.com/users/929840249348190340)
+[![Discord Presence](https://lanyard.cnrad.dev/api/929840249348190340?idleMessage=:In-Ur-Moms-House)](https://discord.com/users/929840249348190340)
 
 ### Contact me : 
 
