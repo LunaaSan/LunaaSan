@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://i.pinimg.com/originals/3c/aa/90/3caa90f097e3003cac05b398f47918e5.gif">
+<img src="https://file.coffee/u/vWkxfAEZt4ExsP.png">
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=misspoken69&color=000000">
 </p>
